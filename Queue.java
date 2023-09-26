@@ -1,8 +1,8 @@
 // Queue implementation in Java
 
 public class Queue {
-    // int SIZE = 5;
-    int items[] = new int[5];
+    int SIZE = 5;
+    int items[] = new int[SIZE];
     int front, rear;
   
     Queue() {
@@ -11,7 +11,7 @@ public class Queue {
     }
   
     boolean isFull() {
-      if (front == 0 && rear == 5 - 1) {
+      if (front == 0 && rear == SIZE - 1) {
         return true;
       }
       return false;
