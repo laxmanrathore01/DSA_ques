@@ -1,4 +1,4 @@
-public // Java program to remove an element
+// Java program to remove an element
 // from a specific index from an array
 
 import java.util.Arrays;
@@ -65,6 +65,6 @@ class RemovalArrray{
 						+ Arrays.toString(arr));
 	}
 }
- RemovalArrray {
+//  RemovalArrray {
     
-}
+// }

@@ -1,4 +1,4 @@
-import java.io.*;
+// import java.io.*;
 public class LinkLists {
 	Node head; 
 	static class Node {

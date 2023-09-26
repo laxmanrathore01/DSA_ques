@@ -71,15 +71,12 @@ class LinkedList {
 		llist.push(3);
 		llist.push(2);
 
-		System.out.println("
-Created Linked list is:");
+		System.out.println("Created Linked list is:");
 		llist.printList();
 
 		llist.deleteNode(1); // Delete node with data 1
 
-		System.out.println(
-			"
-Linked List after Deletion of 1:");
+		System.out.println("Linked List after Deletion of 1:");
 		llist.printList();
 	}
 }
