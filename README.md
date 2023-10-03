@@ -1,9 +1,7 @@
 # DSA_ques
-# This repository contains some programmes explaining DSA during the course of action of sem 3 DSA lectures theory and lab. jai hind
 
 
-
-0.Following is the list pof programmes so far
+0.Following is the list of programmes so far
 1.Matrix Addition
 2.Linked List All Insertion in One
 3.Linked List Insertion at Beginning
