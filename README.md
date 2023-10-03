@@ -4,16 +4,16 @@
 
 
 Following is the list pof programmes so far
-Matrix Addition
-Linked List All Insertion in One
-Linked List Insertion at Beginning
-Linked List Insertion at Middle
-Linked List Insertion at End
-Linked List Deletion at Beginning
-Linked List Deletion at Middle
-Linked List Deletion at End
-Matrix Multiplication
-Queue
-Queue With Linked List
-Stack With Array
-Stack With Linked List
+1.Matrix Addition
+2.Linked List All Insertion in One
+3.Linked List Insertion at Beginning
+4.Linked List Insertion at Middle
+5.Linked List Insertion at End
+6.Linked List Deletion at Beginning
+7.Linked List Deletion at Middle
+8.Linked List Deletion at End
+9.Matrix Multiplication
+10.Queue
+11.Queue With Linked List
+12.Stack With Array
+13.Stack With Linked List
