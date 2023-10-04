@@ -1,7 +1,7 @@
 # DSA_ques
 # This repositry contains the programmes done in DSA during the DSA lab and theory class in sem 3....
 
-0.Following is the list of programmes so far
+Following is the list of programmes so far
 1.Matrix Addition
 2.Linked List All Insertion in One
 3.Linked List Insertion at Beginning
