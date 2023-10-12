@@ -11,7 +11,7 @@ Following is the list of programmes so far
 7. Linked List Deletion at Middle
 8. Linked List Deletion at End
 9. Matrix Multiplication
-10. Queue
+10. Queue with Array
 11. Queue With Linked List
 12. Stack With Array
 13. Stack With Linked List
